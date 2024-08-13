@@ -1,0 +1,14 @@
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\bin\Debug\net8.0\DizideTekrarEdenler.exe
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\bin\Debug\net8.0\DizideTekrarEdenler.deps.json
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\bin\Debug\net8.0\DizideTekrarEdenler.runtimeconfig.json
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\bin\Debug\net8.0\DizideTekrarEdenler.dll
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\bin\Debug\net8.0\DizideTekrarEdenler.pdb
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.AssemblyInfoInputs.cache
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.AssemblyInfo.cs
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.csproj.CoreCompileInputs.cache
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.dll
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\refint\DizideTekrarEdenler.dll
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.pdb
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\DizideTekrarEdenler.genruntimeconfig.cache
+C:\Users\ERALP\Desktop\algorithms\DizideTekrarEdenler\DizideTekrarEdenler\obj\Debug\net8.0\ref\DizideTekrarEdenler.dll
